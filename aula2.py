@@ -187,10 +187,10 @@ finally:
     print("✅ Bloco finally sempre executa!")
 
 # ===========================================================================
-# 🎉 PARABÉNS! PRÓXIMOS PASSOS:
+# 🎉 PRÓXIMOS PASSOS:
 # ===========================================================================
 print("\n" + "="*60)
-print("🎉 PARABÉNS! PRÓXIMOS PASSOS:")
+print("🎉 PRÓXIMOS PASSOS:")
 print("="*60)
 
 print("""
@@ -208,4 +208,4 @@ print("""
 - Exercícios: https://www.w3schools.com/python/python_exercises.asp
 """)
 
-print("\n🌟 Fim do tutorial! Agora é sua vez de praticar! 🌟")
+print("\n🌟 explicação 🌟")
