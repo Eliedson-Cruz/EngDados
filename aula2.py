@@ -1,6 +1,6 @@
 """
 ==================================================
-🌟 APRENDA PYTHON PASSO A PASSO - GUIA COMPLETO 🌟
+🌟  PYTHON - GUIA by Eliedson🌟
 ==================================================
 Este arquivo contém exemplos práticos e explicações detalhadas 
 para você aprender Python desde o básico até conceitos avançados.
