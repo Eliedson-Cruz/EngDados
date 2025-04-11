@@ -171,7 +171,7 @@ saudacao("Ana")  # Saída: "Olá, Ana!"
 saudacao()       # Saída: "Olá, Visitante!"
 
 # ===========================================================================
-# 6️⃣ TRATAMENTO DE ERROS (EVITANDO FALHAS)
+# 6️⃣ TRATAMENTO DE ERROS->>>(EVITANDO FALHAS)<<<
 # ===========================================================================
 print("\n" + "="*60)
 print("6️⃣ TRATAMENTO DE ERROS (EVITANDO FALHAS)")
