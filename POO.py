@@ -128,4 +128,4 @@ if __name__ == "__main__":
     # Métodos Mágicos
     livro = Livro("Python POO", 200)
     print(livro)  # Chama __str__
-    print(f"Páginas: {len(livro)}")  # Chama __len__
+    print(f"Páginas: {len(livro)}")  # Chama __len__.
